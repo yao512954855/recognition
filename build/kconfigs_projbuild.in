@@ -1,0 +1,7 @@
+source "E:/esp541/v5.4.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "E:/esp541/v5.4.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "E:/esp541/v5.4.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "E:/esp541/v5.4.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "E:/esp541/v5.4.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "E:/esp541/v5.4.1/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
+source "E:/espworkspace/recognition/components/esp-sr/Kconfig.projbuild"

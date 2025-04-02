@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "E:\\esp541\\tools\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

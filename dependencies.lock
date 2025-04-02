@@ -2,16 +2,16 @@ dependencies:
   idf:
     source:
       type: idf
-    version: 5.3.2
+    version: 5.4.1
   led_strip:
     dependencies: []
     source:
-      path: D:\2install\esp532\Espressif\frameworks\esp-idf-v5.3.2\examples\common_components\led_strip
+      path: E:\esp541\v5.4.1\esp-idf\examples\common_components\led_strip
       type: local
-    version: 3.0.1
+    version: 3.0.0
 direct_dependencies:
 - espressif/led_strip
 - idf
-manifest_hash: 1545af06714bab2e98b27ec1d593513a21fea4aa2bd0fb129671436d45b31db0
-target: esp32
+manifest_hash: c03681bdb1e5fad9346d8c0051536e9da4f8a8d64ee4fecf34c0d8e6118668f3
+target: esp32s3
 version: 2.0.0
